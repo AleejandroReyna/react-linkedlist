@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
 
-      <h1> LinkedList | React + Cytoscape :P</h1>
+      <h1> LinkedList | React + Cytoscape 7u7</h1>
 
       <CytoscapeComponent elements={elements} style={ { width: '1000px', height: '1000px' } } />
 
